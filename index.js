@@ -1,3 +1,3 @@
 console.log("index")
 console.log("hello")
-console.log("Hello from feature")
+console.log("I am the real feature")
